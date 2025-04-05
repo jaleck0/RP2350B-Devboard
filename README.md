@@ -21,17 +21,6 @@ An unnamed breadboard/stripboard friendly RP2350B based microcontroller developm
 * 16MB QSPI EEPROM
 * USB-C connector
 
-gpio = 48 
-GND = 9
-5V = 2
-3V3 = 1
-
-AGND
-VBUS 
-RUN
-3V3_EN
- 
-
 ## Pinout:
 
 Numbered counter clockwise.
