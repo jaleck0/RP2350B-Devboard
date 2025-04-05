@@ -33,69 +33,72 @@ RUN
  
 
 ## Pinout:
+
+Numbered counter clockwise.
+
 | Board Pin Nr | Function |
-|	|	|
+| :---	|	:--- |
 | Pin 0 | GPIO 0 |
-| Pin 1 | GPIO 0 |
-| Pin 2 | GPIO 0 |
-| Pin 3 | GPIO 0 |
-| Pin 4 | GPIO 0 |
-| Pin 5 | GPIO 0 |
-| Pin 6 | GPIO 0 |
-| Pin 7 | GPIO 0 |
-| Pin 8 | GPIO 0 |
-| Pin 9 | GPIO 0 |
-| Pin 10 | GPIO 0 |
-| Pin 11 | GPIO 0 |
-| Pin 12 | GPIO 0 |
-| Pin 13 | GPIO 0 |
-| Pin 14 | GPIO 0 |
-| Pin 15 | GPIO 0 |
-| Pin 16 | GPIO 0 |
-| Pin 17 | GPIO 0 |
-| Pin 18 | GPIO 0 |
-| Pin 19 | GPIO 0 |
-| Pin 20 | GPIO 0 |
-| Pin 21 | GPIO 0 |
-| Pin 22 | GPIO 0 |
-| Pin 23 | GPIO 0 |
-| Pin 24 | GPIO 0 |
-| Pin 25 | GPIO 0 |
-| Pin 26 | GPIO 0 |
-| Pin 27 | GPIO 0 |
-| Pin 28 | GPIO 0 |
-| Pin 29 | GPIO 0 |
-| Pin 30 | GPIO 0 |
-| Pin 31 | GPIO 0 |
-| Pin 32 | GPIO 0 |
-| Pin 33 | GPIO 0 |
-| Pin 34 | GPIO 0 |
-| Pin 35 | GPIO 0 |
-| Pin 36 | GPIO 0 |
-| Pin 37 | GPIO 0 |
-| Pin 38 | GPIO 0 |
-| Pin 39 | GPIO 0 |
-| Pin 40 | GPIO 0 |
-| Pin 41 | GPIO 0 |
-| Pin 42 | GPIO 0 |
-| Pin 43 | GPIO 0 |
-| Pin 44 | GPIO 0 |
-| Pin 45 | GPIO 0 |
-| Pin 46 | GPIO 0 |
-| Pin 47 | GPIO 0 |
-| Pin 48 | GPIO 0 |
-| Pin 49 | GPIO 0 |
-| Pin 50 | GPIO 0 |
-| Pin 51 | GPIO 0 |
-| Pin 52 | GPIO 0 |
-| Pin 53 | GPIO 0 |
-| Pin 54 | GPIO 0 |
-| Pin 55 | GPIO 0 |
-| Pin 56 | GPIO 0 |
-| Pin 57 | GPIO 0 |
-| Pin 58 | GPIO 0 |
-| Pin 59 | GPIO 0 |
-| Pin 60 | GPIO 0 |
-| Pin 61 | GPIO 0 |
-| Pin 62 | GPIO 0 |
-| Pin 63 | GPIO 0 |
+| Pin 1 | GPIO 1 |
+| Pin 2 | GND |
+| Pin 3 | GPIO 2 |
+| Pin 4 | GPIO 3 |
+| Pin 5 | GPIO 4 |
+| Pin 6 | GPIO 5 |
+| Pin 7 | GND |
+| Pin 8 | GPIO 6 |
+| Pin 9 | GPIO 7 |
+| Pin 10 | GPIO 8 |
+| Pin 11 | GPIO 9 |
+| Pin 12 | GND |
+| Pin 13 | GPIO 10 |
+| Pin 14 | GPIO 11 |
+| Pin 15 | GPIO 12 |
+| Pin 16 | GPIO 13 |
+| Pin 17 | GND |
+| Pin 18 | GPIO 14 |
+| Pin 19 | GPIO 15 |
+| Pin 20 | GPIO 16 |
+| Pin 21 | GPIO 17 |
+| Pin 22 | GND |
+| Pin 23 | GPIO 18 |
+| Pin 24 | GPIO 19 |
+| Pin 25 | GPIO 20 |
+| Pin 26 | GPIO 21 |
+| Pin 27 | GND |
+| Pin 28 | GPIO 22 |
+| Pin 29 | GPIO 23 |
+| Pin 30 | GPIO 24 |
+| Pin 31 | GPIO 25 |
+| Pin 32 | GPIO 26 |
+| Pin 33 | GPIO 27 |
+| Pin 34 | GPIO 28 |
+| Pin 35 | GPIO 29 |
+| Pin 36 | GND |
+| Pin 37 | GPIO 30 |
+| Pin 38 | GPIO 31 |
+| Pin 39 | GPIO 32 |
+| Pin 40 | GPIO 33 |
+| Pin 41 | GPIO 34 |
+| Pin 42 | GPIO 35 |
+| Pin 43 | GPIO 36 |
+| Pin 44 | GPIO 37 |
+| Pin 45 | GPIO 38 |
+| Pin 46 | GPIO 39 |
+| Pin 47 | GND |
+| Pin 48 | GPIO 40 / ADC 0 |
+| Pin 49 | GPIO 41 / ADC 1 |
+| Pin 50 | GPIO 42 / ADC 2 |
+| Pin 51 | GPIO 43 / ADC 3 |
+| Pin 52 | GPIO 44 / ADC 4 |
+| Pin 53 | GPIO 45 / ADC 5 |
+| Pin 54 | GPIO 46 / ADC 6 |
+| Pin 55 | GPIO 47 / ADC 7 |
+| Pin 56 | AGND |
+| Pin 57 | RUN |
+| Pin 58 | 3V3 EN |
+| Pin 59 | GND |
+| Pin 60 | 3V3 |
+| Pin 61 | 3V3 |
+| Pin 62 | VBUS |
+| Pin 63 | VBUS |
