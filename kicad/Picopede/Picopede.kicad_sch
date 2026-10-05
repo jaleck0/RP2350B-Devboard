@@ -15635,7 +15635,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DNF"
+		(property "Value" "100n"
 			(at 79.121 316.103 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15711,7 +15711,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "030290ec-f8cc-431d-a7be-d49b4dc9e7a6")
-		(property "Reference" "R5.1K"
+		(property "Reference" "R16"
 			(at 89.662 51.9684 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15722,7 +15722,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33"
+		(property "Value" "5.1K"
 			(at 89.662 49.657 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15775,7 +15775,7 @@
 		(instances
 			(project "Picopede"
 				(path "/4d566cad-fdcf-4087-b2b1-2acaa8d49b4f"
-					(reference "R5.1K")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -17348,7 +17348,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "DNF"
+		(property "Value" "0R"
 			(at 38.608 256.032 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18099,7 +18099,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "696af490-fb86-438b-b886-7abcd73264ef")
-		(property "Reference" "J6"
+		(property "Reference" "J4"
 			(at 544.83 148.5899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18169,7 +18169,7 @@
 		(instances
 			(project "Picopede"
 				(path "/4d566cad-fdcf-4087-b2b1-2acaa8d49b4f"
-					(reference "J6")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -18342,7 +18342,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6dd8041b-7fa0-4155-8b04-8e9aaf7cd90f")
-		(property "Reference" "J5"
+		(property "Reference" "J3"
 			(at 500.38 148.5899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18412,7 +18412,7 @@
 		(instances
 			(project "Picopede"
 				(path "/4d566cad-fdcf-4087-b2b1-2acaa8d49b4f"
-					(reference "J5")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -19369,7 +19369,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8f9fb736-d52e-47ad-92de-de332f2c139a")
-		(property "Reference" "R5.1K"
+		(property "Reference" "R17"
 			(at 99.822 51.9684 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19380,7 +19380,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33"
+		(property "Value" "5.1K"
 			(at 99.822 49.657 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19433,7 +19433,7 @@
 		(instances
 			(project "Picopede"
 				(path "/4d566cad-fdcf-4087-b2b1-2acaa8d49b4f"
-					(reference "R5.1K")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -19536,7 +19536,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "920ed39b-8194-474e-89e4-50cab3483d1d")
-		(property "Reference" "J2"
+		(property "Reference" "J1"
 			(at 499.11 76.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19690,7 +19690,7 @@
 		(instances
 			(project "Picopede"
 				(path "/4d566cad-fdcf-4087-b2b1-2acaa8d49b4f"
-					(reference "J2")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -21619,7 +21619,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce62e152-caa3-4f7a-9bff-645c2a3827d5")
-		(property "Reference" "J3"
+		(property "Reference" "J2"
 			(at 525.78 76.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21773,7 +21773,7 @@
 		(instances
 			(project "Picopede"
 				(path "/4d566cad-fdcf-4087-b2b1-2acaa8d49b4f"
-					(reference "J3")
+					(reference "J2")
 					(unit 1)
 				)
 			)
